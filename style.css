@@ -1,0 +1,28 @@
+.nav-link:hover{
+    text-decoration: underline 
+
+}
+.underline:hover{
+    color: white;
+    text-decoration: underline;
+    
+}
+.underline{
+    color: grey;
+    text-decoration: none;
+}
+@media (max-width:1000px) {
+    .media{
+       background-color: gray;
+     color: rgb(28, 213, 90) !important; 
+    }
+    
+}
+@media (max-width:1000px) {
+.media1{
+    border: 0;
+    background-color: rgb(32, 95, 213);
+}    
+}
+
+
